@@ -1,0 +1,12 @@
+
+  h3 {  
+        width: 300px; 
+        height:4cm; 
+        padding    : 20px; 
+        margin-left     : 710px; 
+        border     : 10px outset blue; 
+        background-color: rgb(252, 252, 134); 
+        
+        border-color:#800080 ;
+        border-style: outset;
+} 
